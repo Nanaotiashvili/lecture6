@@ -131,6 +131,11 @@ footer {
     height: 201px;
     background-color: #243043;
     margin-top: 36px;
+    padding: 159px, 138px, 57px, 137px;
+}
+.nav1 {
+    display: block;
+    vertical-align: top;
 }
 .nav1 a {
     color: #818687;
@@ -142,4 +147,26 @@ footer {
 }
 list {
     display: block;
+.list {
+    display: inline-block;
+    margin-right: 138px;
+    margin-top: 59px;
+}
+.p2 {
+    display: inline-block;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    vertical-align: top;
+    margin-right: 215px;
+    margin-top: 59px;
+}
+.geolab {
+    display: inline-block;
+    margin-right: 138px;
+    margin-top: 59px;
+    vertical-align: top;
 }
