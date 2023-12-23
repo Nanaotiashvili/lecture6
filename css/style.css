@@ -1,0 +1,145 @@
+body {
+    background-color: #F1F1F1;
+}
+header {
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    width: 100%;
+    background-color: #F1F1F1;
+}
+
+.container {
+    width: 1440px;
+    margin: 0 auto;
+    margin-left: 138px;
+}
+li {
+    display: inline-block;
+}
+li a {
+    color: #000;
+    font-family: Roboto;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 35px;
+}
+nav {
+  display: inline-block;
+  vertical-align:middle ;
+}
+img {
+    vertical-align: middle;
+}
+h2 {
+    color: #000;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.img1 {
+    display: inline-block;
+    position: relative;
+    margin-top: 27px;
+}
+.s1 {
+    margin-top: 100px;
+}
+.textimg {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-100%, -300%) ;
+}
+.p1 p {
+    color: #8A8787;
+    font-family: Roboto;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding: 10px;
+}
+.p1 {
+    margin: 68px, 87px, 67px, 37px;
+}
+.m2 {
+    display: inline-block;
+    color: #8A8787;
+    font-family: Roboto;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.card {
+    display: inline-block;
+    width: 322px;
+    margin-right:60px;
+    padding: 30px;
+}
+.img2 {
+    display: inline-block;
+    position: relative;
+    margin-top: 27px;
+}
+.s2 {
+    margin-top: 100px;
+}
+.textimg2 {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%, -50%) ;
+}
+.card2 {
+    width: 758px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 45px;
+}
+.s2 h2{
+    margin-bottom: 30px;
+}
+.img2 {
+    margin-bottom: 42px;
+    margin-top: 0px;
+}
+.card1 {
+    width: 362px;
+    display: inline-block;
+    vertical-align: top;
+}
+footer {
+    width: 1440px;
+    height: 201px;
+    background-color: #243043;
+    margin-top: 36px;
+}
+.nav1 a {
+    color: #818687;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+list {
+    display: block;
+}
